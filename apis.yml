@@ -29,7 +29,7 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 image: https://static.wixstatic.com/media/f44d80_c9ff400ffa4a4561a0195f1d0a468166~mv2.jpg/v1/fill/w_1200,h_630,al_c/f44d80_c9ff400ffa4a4561a0195f1d0a468166~mv2.jpg
 created: '2026-07-17'
 modified: '2026-07-18'
