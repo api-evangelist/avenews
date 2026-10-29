@@ -64,6 +64,90 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Avenews is a company surfaced as a portfolio company of techstars and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Avenews (Avenews-GT) is a Nairobi-based agri-fintech and Digital Credit Provider licensed by the Central Bank of Kenya that delivers transaction-backed, recurring working-capital financing to agricultural SMEs across Kenya. Rather than requiring traditional collateral, Avenews underwrites using digital trade data, M-Pesa and bank statements, and supply-chain history. Its products include the Agri Credit Line (recurring capital to restock inputs), Agri Supplier Financing (invoice financing), Agri Buyer Financing (deferred-payment terms), and Stockist Financing (direct distributor payments). The public site is built on Wix and exposes a Wix Site MCP endpoint plus an llms.txt file for agentic AI access, though Avenews does not publish a bespoke developer API, OpenAPI definition, or developer portal. This profile was surfaced as a Techstars-connected portfolio lead and enriched by the API Evangelist pipeline.
 
-Backed by: techstars — https://avenews-gt.com/
+**Areas:** Company · Fintech · Agriculture · Lending · Working Capital · Digital Credit · Kenya · Africa · Supply Chain Finance
+
+## Avenews on APIs.io
+
+Everything profiled for Avenews is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/avenews/](https://apis.io/providers/avenews/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [avenews-gt-site](https://apis.io/servers/avenews/avenews-gt-site/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Avenews Domain Security](https://apis.io/security/avenews/avenews-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.avenews-gt.com/)
+- [Sign up](https://platform.avenews.io/qualification)
+- [Support](https://www.avenews-gt.com/contact)
+- [Blog](https://www.avenews-gt.com/avenews-blog)
+- [Terms of service](https://www.avenews-gt.com/terms-of-use)
+- [Privacy policy](https://docs.google.com/document/d/1MkogMc1CDYLaTY0g9qo0kKIF-yIezkTHJs6HcKWmeM8)
+
+## API Evangelist rating
+
+**Kin Score 11.3** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 21.1 |
+
+**Agent readiness 2.2** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | platform (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/avenews/](https://apis.io/providers/avenews/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Avenews: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/avenews/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
